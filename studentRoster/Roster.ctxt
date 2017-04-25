@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=studentID\ firstName\ lastName\ email\ age\ score1\ score2\ score3
+comment1.target=void\ addStudent(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment1.text=\n\ creates\ a\ new\ student\ object\ adds\ it\ to\ the\ student\ arrayList\n\ @peram\ take\ in\ first\ and\ last\ name\ email\ age\ and\ grades\ an\ araylist\ of\ student\ objects.\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getAll()
+comment2.text=\n\ Takes\ a\ studentID\ as\ input\ and\ returs\ the\ index\ for\ the\ student\ object\n\ @param\ studentID\n\ @return\ student\ object\ index\n
+comment3.params=studentID
+comment3.target=void\ removeStudent(java.lang.String)
+comment3.text=\n\ takes\ a\ studentID\ searches\ the\ student\ arrayList\ and\ removes\ it.\n\ @param\ \ studentID\ \n
+comment4.params=studentID
+comment4.target=int\ getIndex(java.lang.String)
+comment4.text=\n\ finds\ a\ student\ index\ of\ an\ object\ for\ a\ given\ studentID\ in\ the\ students\ arrayList\n\ @peram\ studentID\n
+comment5.params=studentID
+comment5.target=void\ printAverage(java.lang.String)
+comment5.text=\n\ prints\ average\ by\ student\ id\n\ @peram\ studentID\n
+comment6.params=
+comment6.target=void\ printAll()
+comment6.text=\n\ Loops\ throught\ the\ students\ arrayList\ and\ prints\ each\ indivitual\ \n\ student\ \n
+comment7.params=
+comment7.target=void\ printInvalidEmail()
+numComments=8
